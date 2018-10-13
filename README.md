@@ -10,3 +10,6 @@ Your machine should support WAMP server for windows (32 bit or 64 bit)
 3. Type `localhost` in your browser
 4. Localhost will display all your projects under `Your Projects` in the bottom of the page
 5. Finally, run `localhost/OAuth-master/index.php` in your browser
+
+# Blog
+http://kushalivaranya.blogspot.com/2018/10/the-service-of-oauth-authorization.html 
