@@ -1,0 +1,9 @@
+<?php
+
+define('PINTEREST_APPLICATION_ID', '4994119294343207621');
+
+define('PINTEREST_APPLICATION_SECRET', 'e6187c5f366d3101cafe760e988c11b4001eb90af8496f5087cd7bd50349b926');
+
+define('PINTEREST_REDIRECT_URI', 'https://localhost/oAuth2/pinterest-auth.php');
+
+?>
